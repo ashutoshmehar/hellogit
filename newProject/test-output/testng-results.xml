@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="31948" started-at="2016-06-21T11:28:37Z" finished-at="2016-06-21T11:29:09Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="31948" started-at="2016-06-21T11:28:37Z" finished-at="2016-06-21T11:29:09Z">
+      <class name="newPackage.PageObjectModelTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:newPackage.PageObjectModelTest@55f3ddb1]" name="setUp" is-config="true" duration-ms="7807" started-at="2016-06-21T16:58:29Z" finished-at="2016-06-21T16:58:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testMoltonBrown()[pri:0, instance:newPackage.PageObjectModelTest@55f3ddb1]" name="testMoltonBrown" duration-ms="31928" started-at="2016-06-21T16:58:37Z" finished-at="2016-06-21T16:59:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMoltonBrown -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:newPackage.PageObjectModelTest@55f3ddb1]" name="tearDown" is-config="true" duration-ms="678" started-at="2016-06-21T16:59:09Z" finished-at="2016-06-21T16:59:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- newPackage.PageObjectModelTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
